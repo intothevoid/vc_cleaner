@@ -1,4 +1,4 @@
-'VBScript to delete files by extension
+'VC++ Cleaner script to clean intermediate files
 'Karan Kadam
 '8-Sep-2010
 
