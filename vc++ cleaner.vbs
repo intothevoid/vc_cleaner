@@ -1,6 +1,6 @@
-'VC++ Cleaner script to clean intermediate files
-'Karan Kadam
-'8-Sep-2010
+' VC++ Cleaner - VB Script to clean intermediate files from a VC++ project
+' Copyright (C) 2010-2014 Karan Kadam
+' License: http://www.gnu.org/licenses/gpl.html GPL version 2 or higher
 
 'Declarations
 OPTION EXPLICIT
